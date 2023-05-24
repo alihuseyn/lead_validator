@@ -1,0 +1,4 @@
+.venv
+invalid.txt
+websites.txt
+__pycache__
